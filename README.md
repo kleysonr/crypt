@@ -1,2 +1,2 @@
-# crypto
-Java crypto library
+# crypt
+Java crypt library
